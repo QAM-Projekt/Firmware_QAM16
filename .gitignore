@@ -19,6 +19,9 @@
 *.mk
 *.su
 
+#Block Metadata
+*.metadata
+
 
 
 #User Specific Files
